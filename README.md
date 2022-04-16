@@ -5,7 +5,7 @@
 
 - 📝 I write articles on [https://www.leanfield.io](https://www.leanfield.io)
 
-- 💬 Ask me about **DevOps, CI/CD, programming in TypeScript or C#, Scripting in PowerShell or Python**
+- 💬 Ask me about **DevOps, CI/CD, study technique, programming in TypeScript or C#, Scripting in PowerShell or Python**
 
 - 👨‍💻 I am currently studying to get better at **golang, kubernetes, AWS**
 
