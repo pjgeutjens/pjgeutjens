@@ -7,5 +7,5 @@
 
 - 💬 Ask me about **DevOps, CI/CD, study technique, programming in TypeScript or C#, Scripting in PowerShell or Python**
 
-- 👨‍💻 I am currently studying to get better at **golang, kubernetes, AWS, organisation coaching**
+- 👨‍💻 I am currently studying to get better at **kubernetes, python, ML&AI, organisation coaching**
 
