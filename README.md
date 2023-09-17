@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pieter</h1>
-<h3 align="center">Facilitator, coach-in-training, hiker, developer, organiser of brainstorming sessions. I believe in lifelong learning and continuous improvement in all things.</h3>
+<h3 align="center">Facilitator, coach-in-training, --hiker-- (I really need to start doing this again...) , developer, organiser of brainstorming sessions. I believe in lifelong learning and continuous improvement in all things.</h3>
 
 <p align="left"> <a href="https://twitter.com/pjgeutjens" target="blank"><img src="https://img.shields.io/twitter/follow/pjgeutjens?logo=twitter&style=for-the-badge" alt="pjgeutjens" /></a> </p>
 
